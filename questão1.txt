@@ -1,0 +1,9 @@
+Questão 1 – O projeto engatinhando
+João iniciou um projeto novo no computador e tentou salvar 
+o progresso com o Git. Para sua surpresa, recebeu uma mensagem
+dizendo que ainda não havia nenhum commit e que nada estava
+sendo rastreado. Agora o projeto está parado e ele não sabe
+como prosseguir.
+
+- git add .
+- git commtiit -m Questão1
