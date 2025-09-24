@@ -5,5 +5,6 @@ dizendo que ainda não havia nenhum commit e que nada estava
 sendo rastreado. Agora o projeto está parado e ele não sabe
 como prosseguir.
 
+- git init
 - git add .
 - git commtiit -m Questão1

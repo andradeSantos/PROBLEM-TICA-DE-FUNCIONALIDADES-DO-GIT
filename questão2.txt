@@ -1,0 +1,11 @@
+Questão 2 – A funcionalidade secreta
+Maria faz parte de uma equipe que está criando um sistema. 
+Ela começou a programar a tela de login direto no código principal
+do projeto. Depois de alguns dias, percebeu que as mudanças estavam
+misturadas com outras partes importantes e agora o time está com 
+medo de quebrar o sistema todo.
+
+- Mostre os códigos que Maria deveria ter usado para evitar esse problema 
+e justifique a sua escolha.
+
+
