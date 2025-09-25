@@ -7,3 +7,10 @@ Ela percebeu que o repositório remoto e o local não estavam conectados.
 - Mostre os códigos que Ana deve usar para conectar e compartilhar seu projeto e explique a importância de cada um deles.
 
 Resposta: 
+- tendo em vista de tudo que já fizemos no repositório(vários ciclos do arquivo, criação de branchs...), falta apenas conectar 
+com a url do nosso servidor e enviar.
+
+- git remote add origin url
+- git push -u origin master
+
+ 
