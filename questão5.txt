@@ -1,0 +1,10 @@
+Questão 5 – O desastre acidental
+Carlos estava organizando os arquivos do projeto quando, sem perceber, 
+digitou um comando que removeu um arquivo essencial. O arquivo sumiu da 
+pasta e todos entraram em pânico, já que ele ainda não havia feito backup.
+
+- Escreva os códigos que podem ser usados para recuperar o arquivo 
+(quando possível) e explique por que essa é a solução correta.
+
+Resposta: git reset --hard, vai o código ideal, tendo a situação de que ele
+ele excluíu o último commit.

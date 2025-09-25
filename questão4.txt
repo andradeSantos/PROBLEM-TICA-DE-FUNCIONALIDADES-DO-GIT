@@ -1,0 +1,9 @@
+Questão 4 – O trabalho em equipe
+Uma professora pediu que a turma subisse seus projetos no GitHub para 
+compartilhar com os colegas. Ana conseguiu criar o repositório no site, 
+mas quando tentou enviar o código do computador para lá, nada apareceu. 
+Ela percebeu que o repositório remoto e o local não estavam conectados.
+
+- Mostre os códigos que Ana deve usar para conectar e compartilhar seu projeto e explique a importância de cada um deles.
+
+Resposta: 
