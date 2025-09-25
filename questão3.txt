@@ -1,0 +1,10 @@
+Questão 3 – O encontro de ideias
+
+Dois colegas da mesma turma decidiram editar o mesmo arquivo, 
+mas cada um escreveu de um jeito diferente na mesma linha. 
+Quando tentaram juntar os trabalhos, o Git interrompeu o processo 
+e deixou o arquivo cheio de marcas estranhas no meio do texto. A 
+equipe ficou perdida.
+
+- Escreva os códigos necessários para lidar com essa situação e explique como eles ajudam a resolver o problema.
+
