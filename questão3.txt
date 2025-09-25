@@ -8,3 +8,4 @@ equipe ficou perdida.
 
 - Escreva os códigos necessários para lidar com essa situação e explique como eles ajudam a resolver o problema.
 
+Area de modificação: calma nas questões thalytinha
